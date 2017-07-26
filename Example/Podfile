@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'RPScanner_Example' do
+  pod 'RPScanner', :path => '../'
+
+  target 'RPScanner_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
