@@ -1,0 +1,6 @@
+framework module RPScanner {
+  umbrella header "RPScanner-umbrella.h"
+
+  export *
+  module * { export * }
+}

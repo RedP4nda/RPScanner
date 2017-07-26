@@ -1,0 +1,16 @@
+PODS:
+  - RPScanner (0.9.0)
+
+DEPENDENCIES:
+  - RPScanner (from `../`)
+
+EXTERNAL SOURCES:
+  RPScanner:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  RPScanner: 58b613de2db951d6f485b6b903127b462573bbb9
+
+PODFILE CHECKSUM: 3b412a4cfac8fe290b2ebb517b61fbf3e6e4423b
+
+COCOAPODS: 1.2.0
